@@ -1,0 +1,88 @@
+.ct_h1, .h_h1, .am_h1, .s_h1, .pf_h1{
+	font-size: 48px;
+	text-align: center;
+	font-style: italic;
+	background-color: black;
+	color: whitesmoke;
+	padding: 10px;
+}
+nav {
+	display: flex;
+  	justify-content: space-between;
+  	align-items: center;
+  	padding: 5px 30%;
+}
+.basketbball_pic {
+	width: 100%;
+	length: 100%;
+
+}
+.bus_pic, .mom_pic, .my_pic {
+	width: 31.5%;
+	length: 30%;
+}
+.hp_p{
+	text-align: center;
+}
+.am_p{
+	text-align: center;
+}
+.my_list{
+	font-weight: bold;
+}
+.portfolio1_h{
+	text-align: center;
+}
+.portfolio1, .portfolio2, .portfolio3{
+	display: inline-block;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
+	background-color: black;
+	width: 30%;
+	lenth: 33%;
+	text-align: center;
+	border-style: solid;
+	margin-top: 100px;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+
+.btn1, .btn2, .btn3 {
+	display: inline-block;
+	background-color: whitesmoke;
+	color: burlywood;
+	text-decoration: none;
+	padding: 0.8rem 2rem;
+	border: none;
+	border-radius: 3px;
+	margin-top: 1rem;
+}
+
+
+body {
+	background-color: grey;
+	color: #fff;
+}
+.ct_info{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 70px;
+}
+img {
+	border-style: solid;
+	border-width: 4px;
+}
+nav {
+	text-align: center;
+}
+.bae {
+	width: 40%;
+	length: 40%;
+	image: center;
+}
+
+
+.hp_fc{
+	text-align: center;
+	font-size: 36px;
+}
